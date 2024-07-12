@@ -1,0 +1,31 @@
+
+.header{
+    background-color: #E9673E;
+}
+.headoption{
+    color: white;
+}
+.head2{
+    background-color:black; color: white;
+}
+
+.body{
+    background-color: rgb(161, 228, 228);
+}
+.box{
+    background-color:wheat;
+    height: 200px;
+    width: 400px;
+    border: 6px outset black;
+    border-radius: 15px;
+    margin: auto;
+}
+.footer{
+    background-color: #E9673E;
+}
+.footerheader{
+    color: black;
+}
+.footeroption{
+    color: white;
+}

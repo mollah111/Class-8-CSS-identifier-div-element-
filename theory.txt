@@ -1,0 +1,14 @@
+=========Identifier=========
+1. tag
+2. class .abcd{}
+3. id #abcd{}
+
+<div></div>
+
+<section></section>
+
+<style></style>
+
+<script></script>
+
+border type = solid,  double, dotted, dashed. groove, ridge, inset, outset.
